@@ -1,12 +1,12 @@
 package com.faang.exercises;
 
-import javafx.util.Pair;
+//import javax.util.Pair;
 
 import java.util.ArrayDeque;
 import java.util.Deque;
 
 public class RemoveAdjacentDuplicates2 {
-    public static void main(String args[]) {
+  /*  public static void main(String args[]) {
         System.out.println(removeAdjacentCharacters("adddbbeeebcccffggg",3));
     }
     static String removeAdjacentCharacters(String input,int k) {

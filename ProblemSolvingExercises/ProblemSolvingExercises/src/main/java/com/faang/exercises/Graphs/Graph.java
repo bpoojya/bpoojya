@@ -101,7 +101,7 @@ public class Graph<T> {
               }
             }
         }
-
+return 0;
 
     }
 
